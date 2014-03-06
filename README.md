@@ -1,2 +1,2 @@
-Android-PHP-GCM-Exanple
+Android-PHP-GCM-Example
 =======================
